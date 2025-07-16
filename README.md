@@ -2,20 +2,20 @@
 
 ## Overview
 
-This project analyzes the relationship between vegetation health and socio-economic factors in Sacramento County, California, focusing on NDVI (Normalized Difference Vegetation Index) and household income.
+This project analyzes the relationship between vegetation 🌳 health and socio-economic factors in Sacramento County, California, focusing on NDVI (Normalized Difference Vegetation Index) and household income.
 
 ---
 
 ## Purpose
 
-To examine how vegetation health, measured by NDVI derived from Landsat satellite imagery, correlates with socio-economic status, specifically the percentage of households earning less than \$35,000 annually, across Sacramento County census tracts.
+To examine how vegetation health, measured by NDVI derived from Landsat satellite 🛰️ imagery, correlates with socio-economic status, specifically the percentage of households earning less than \$35,000 annually, across Sacramento County census tracts.
 
 ---
 
 ## Tools & Technologies
 
 * **R** (dplyr, tidyverse, tidyr, sf, tidycensus)
-* **ArcGIS Pro**
+* **ArcGIS Pro** 🗾
 * **Microsoft Excel**
 
 ---
